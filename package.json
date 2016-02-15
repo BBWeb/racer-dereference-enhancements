@@ -1,6 +1,6 @@
 {
   "name": "racer-dereference-enhancements",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Racer/Derby plugin for enhanced deference functionality",
   "main": "lib/index.js",
   "scripts": {
